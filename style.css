@@ -1,0 +1,226 @@
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+} 
+
+
+h3{
+  font-size: 5em;
+  text-align: center;
+  font-family: ocr a;
+}
+
+.nav__links{
+  text-align: center; 
+  font-family: ocr a;
+}
+
+header p{
+  font-family: ocr a;
+  text-align: center;
+  color:  white;
+}
+
+header {
+  background: url(img/brent.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  font-size: 23px;
+}
+
+.nav__links, .nav__social{
+  height: 7.5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+}
+
+a{
+  color: white;
+  font-family: ocr a;
+  font-size: 15px;
+  text-decoration: none;
+  padding: 14px;
+}
+
+.header-txt{
+  height: 80vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+
+.twitter{
+  color: white;
+  font-size: 2rem;
+}
+
+.news{
+  font-size: 2em;
+}
+.row {
+ display: flex;
+  justify-content: space-between; 
+padding-top: 15px}
+
+ .column {
+  display: flex; 
+  height: auto; 
+  width: 60vh; 
+  margin-right: auto; 
+  margin-left: auto; 
+  margin-bottom: 10vh;
+}
+
+.lorem{
+  display: flex;
+  align-items: center;
+  font-size: 3em;
+  justify-content: center;
+  height: 30vh;
+}
+
+.about-text{
+  font-size: 1.5em;
+  margin-top: 10vh;
+  margin-bottom: 20vh;
+  font-family: Tiro Devanagari Hindi;
+
+}
+
+.about-text h3{
+  font-size: 7em;
+  display: flex;
+  justify-content: center;
+  font-family: ocr a;
+  font-size: 2em;
+  margin-bottom: 10vh;
+  
+}
+.tour h3{ margin-top: 10vh; 
+  font-size: 3em;
+}
+
+
+
+.tour p{
+  margin-top: 5vh;
+  font-family: Tiro Devanagari Hindi;
+  text-align: center;
+  font-size: 1.5em;
+
+}
+
+
+.gifs{
+  margin-top: 20vh;
+}
+
+
+.shop h3{
+  font-size: 3em;
+  color: black;
+}
+
+
+.shop{
+  margin-bottom: 20vh;
+
+}
+
+.shop p{
+  font-size: 1.5em;
+  font-family: Tiro Devanagari Hindi;
+  text-align: center;
+  margin-top: 5vh;
+  color: black;
+
+}
+
+
+.albums{
+  margin-right: 20vh;
+  color: black;
+}
+
+
+
+.music a{
+ display: flex;
+ flex-direction: row;
+  justify-content: left;
+  font-size: 5em;
+  color: black;
+}
+.music h3{
+  font-size: 3em;
+}
+
+
+.music p{
+  font-size: 1em;
+  display: flex;
+  justify-content: center;
+}
+
+.contact h3{
+  margin-top: 40vh;
+  margin-bottom: 10vh;
+  font-size: 5em;
+
+}
+
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: transparent;
+  color: black;
+}
+
+#ss p{
+  margin-left: 20vh;
+}
+
+#ftw p{
+  margin-left: 17vh;
+}
+
+
+footer a{ 
+color: black; 
+font-family: Tiro Devanagari Hindi;
+padding: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
